@@ -1,13 +1,10 @@
-# Simple Phone Ruler
+# Simple Web Based Phone Ruler
 
-This project turns your phone screen into a basic **visual ruler**.  
-There is **no calibration** — instead, it renders a ruler based on the screen width as a reference display.
+This project turns your phone screen into a basic **visual ruler**. — it renders a ruler based on the screen height as the ruler length.
 
 ## What this project does
-- Displays a basic horizontal ruler across the phone screen
-- Shows cm markings visually
-- No calibration or measurement drawing features
-- Intended only for rough visual measurement or for drawing straight lines on top of the phone
+- Displays a basic vertical ruler on the left and right side of the phone screen
+- Use centimeter and inch measurements
 
 ## Files included
 - `index.html`
@@ -17,6 +14,3 @@ There is **no calibration** — instead, it renders a ruler based on the screen 
 
 ## How to run
 Simply open `index.html` in any browser or upload it to Replit to host it.
-
-## Notes
-This ruler is not guaranteed to be physically accurate (since all screens have different pixel density), but can be used for rough estimation.
